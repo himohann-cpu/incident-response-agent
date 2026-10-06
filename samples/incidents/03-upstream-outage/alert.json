@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4230",
+  "service": "checkout-api",
+  "title": "Checkout 5xx rate above 5%",
+  "severity": "SEV1",
+  "onset_at": "2026-09-19T16:21:00Z",
+  "fired_at": "2026-09-19T16:23:00Z",
+  "signal": "errors",
+  "detail": "All card payments failing."
+}

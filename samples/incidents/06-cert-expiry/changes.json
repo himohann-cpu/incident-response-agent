@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C1",
+    "service": "web-frontend",
+    "kind": "deploy",
+    "at": "2026-09-26T22:05:00Z",
+    "author": "epark",
+    "ref": "0c3a9d2",
+    "summary": "New landing page hero",
+    "files": [
+      "src/pages/Home.tsx"
+    ]
+  }
+]

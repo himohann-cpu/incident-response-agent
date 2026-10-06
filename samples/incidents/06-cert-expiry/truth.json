@@ -1,0 +1,6 @@
+{
+  "cause": {
+    "kind": "certificate"
+  },
+  "runbook": "certificate-renewal"
+}

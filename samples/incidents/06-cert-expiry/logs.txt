@@ -1,0 +1,126 @@
+2026-09-27T00:00:17Z ERROR notifications job_id=7f8491c4-7e4b-5d1c-b10b-049bf9e82520 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:00:29Z INFO notifications job_id=729eabee-4fa7-c046-8332-26fce41fbd52 queued email template=order_confirmation
+2026-09-27T00:00:29Z ERROR notifications job_id=7578f33b-08fc-f2bf-5340-23117b834167 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:00:35Z INFO notifications job_id=ff69a177-6468-2c6f-bf53-a43996ee28f2 queued email template=order_confirmation
+2026-09-27T00:00:35Z ERROR notifications job_id=3de292c5-4a8a-c5db-8b56-6bb3069b1b9e SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:00:43Z ERROR notifications job_id=ad2eeb51-a3b2-6167-7e34-f97ef688a7ce SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:00:50Z ERROR notifications job_id=2970a1d7-d560-933d-7eea-0c5ed36c8d68 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:00Z ERROR notifications job_id=84181e71-ceb4-e09c-0fc8-4ed92982a220 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:10Z INFO notifications job_id=e857b619-0db1-9657-4c31-620af8b2d556 queued email template=order_confirmation
+2026-09-27T00:01:10Z ERROR notifications job_id=f64ddf4c-b18a-2fe8-45b8-e4284f351170 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:15Z ERROR notifications job_id=67300d22-1bc1-ae7a-429d-64db5c9e5d0e SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:23Z ERROR notifications job_id=1ccabc6e-3437-ed01-e8a5-73429f6b7943 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:31Z ERROR notifications job_id=5093dfef-0b40-26ee-4766-8922c1cfd060 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:43Z ERROR notifications job_id=c0ac79dc-1393-467f-6442-b7a15cdc9edb SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:01:53Z ERROR notifications job_id=1f002617-427d-731c-c578-0a940301c0fa SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:06Z ERROR notifications job_id=f09ec373-5c1c-43f9-fb01-e2c93e4de2ac SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:16Z INFO notifications job_id=d59b3d86-cec9-b637-1c7c-4e94ee16bea2 queued email template=order_confirmation
+2026-09-27T00:02:16Z ERROR notifications job_id=f7a09efe-b911-a247-be0b-1e2ab127f13f SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:24Z ERROR notifications job_id=be114114-d6d6-577c-6664-7ff3647f770c SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:31Z ERROR notifications job_id=df22eed5-24b7-8823-bc54-69e4856cf413 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:37Z INFO notifications job_id=ae915e34-10e2-ecaf-69c7-808b11191a62 queued email template=order_confirmation
+2026-09-27T00:02:37Z ERROR notifications job_id=aaf5bb37-3c4c-93ec-6ebb-36c467579d36 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:50Z INFO notifications job_id=26b229f5-38e0-abea-d984-3d1cc10dae44 queued email template=order_confirmation
+2026-09-27T00:02:50Z ERROR notifications job_id=4858cfca-e618-0891-be35-d22bf84a27b3 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:02:58Z ERROR notifications job_id=b4408c87-e021-b42a-6263-e5719cc321d7 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:11Z INFO notifications job_id=9b90e268-368c-e765-394f-18054f2b2413 queued email template=order_confirmation
+2026-09-27T00:03:11Z ERROR notifications job_id=f98e1bc5-e36a-cd57-1423-05f85c16575f SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:21Z INFO notifications job_id=37e88f6d-00e0-752e-a115-2385c3949286 queued email template=order_confirmation
+2026-09-27T00:03:21Z ERROR notifications job_id=0f213144-fa2e-7219-971a-987d8e0eb0e4 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:23Z INFO notifications job_id=1c4cb9ae-7bd5-3976-4b4d-efafa1239578 queued email template=order_confirmation
+2026-09-27T00:03:23Z ERROR notifications job_id=87db79c1-9186-3af4-37c5-cb208e7d6ed9 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:28Z INFO notifications job_id=3915ab97-c730-2c4c-0743-8132cf8f0358 queued email template=order_confirmation
+2026-09-27T00:03:28Z ERROR notifications job_id=10247499-f45b-a148-4613-16eab97ae1f5 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:31Z ERROR notifications job_id=96b89f5a-68b6-39ed-aaad-e1bcde1e90d6 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:45Z ERROR notifications job_id=a8674764-fc7b-4072-1246-7a56a44b558c SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:49Z ERROR notifications job_id=e16120d5-b55a-9e20-7464-577830d41b9b SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:03:54Z INFO notifications job_id=48573fd4-c272-31b7-1392-e5bcbc6a1a1f queued email template=order_confirmation
+2026-09-27T00:03:54Z ERROR notifications job_id=c705b041-329c-ca4d-b428-325dbe399429 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:00Z INFO notifications job_id=bf6619fd-c940-f2c4-05dd-bd45eb8188d2 queued email template=order_confirmation
+2026-09-27T00:04:00Z ERROR notifications job_id=0409e695-100f-5a99-34a4-03546afc7742 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:12Z ERROR notifications job_id=4387d40b-8ec8-5afa-a0a8-90bc29e4c99d SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:19Z ERROR notifications job_id=0b536a39-bd47-2cd8-b0fa-6bc75af25c11 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:33Z ERROR notifications job_id=57cac47b-1b50-dbae-2764-c7085d270752 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:42Z ERROR notifications job_id=cb74b998-518a-79eb-e5b5-f9ecd268c279 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:45Z ERROR notifications job_id=638f622f-3593-5a93-407f-056ea8054213 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:04:58Z INFO notifications job_id=c6400f24-bb7f-b9c9-6257-cfd629345945 queued email template=order_confirmation
+2026-09-27T00:04:58Z ERROR notifications job_id=2368cc1b-034b-1c72-36ca-95d9ba5688bb SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:06Z INFO notifications job_id=76b5d3b4-c7c6-0b12-3436-92a5e396dfaf queued email template=order_confirmation
+2026-09-27T00:05:06Z ERROR notifications job_id=dbc7d319-52c8-56a4-9fe4-e2a38f40e8d4 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:15Z ERROR notifications job_id=01e0d100-3e50-3456-e7e2-61f25ac676f4 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:18Z ERROR notifications job_id=332cfd14-70a6-74d7-9272-eba495e5c182 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:30Z ERROR notifications job_id=114b7914-91f6-b977-b81c-dc980dc3ad08 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:34Z ERROR notifications job_id=b6b78139-fd6b-3d62-b782-7835a6481938 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:43Z ERROR notifications job_id=7f7b0158-995c-61b6-100f-3d14b321d958 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:48Z INFO notifications job_id=a24720b0-bd0d-bdd9-a5d4-3e1c09cd6a74 queued email template=order_confirmation
+2026-09-27T00:05:48Z ERROR notifications job_id=333be773-cd7f-003d-09be-0c76776ec748 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:05:53Z ERROR notifications job_id=c67c93a0-ac00-0b52-ee2b-a37d8e623291 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:01Z INFO notifications job_id=77c94af2-04aa-7a95-c1d2-1a93f4db8edd queued email template=order_confirmation
+2026-09-27T00:06:01Z ERROR notifications job_id=b5c14d53-18b9-2fdb-24ac-8773ce9bc28f SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:12Z ERROR notifications job_id=c975bc3e-f4f0-e3c1-61b1-e100ea95eeba SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:15Z ERROR notifications job_id=d2442b19-15eb-80a2-8fc6-9ce09eae1e34 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:29Z ERROR notifications job_id=0de2836e-a954-8ba3-9d76-75034a7cb092 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:41Z INFO notifications job_id=06299237-2ff7-d464-81cb-d658cfc1cf7f queued email template=order_confirmation
+2026-09-27T00:06:41Z ERROR notifications job_id=b5480018-a66a-bc4c-3506-6dd6abf67497 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:52Z ERROR notifications job_id=5a3f44ca-ad7a-1812-167c-3d2abaeca3bb SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:55Z INFO notifications job_id=4d7f4225-4f28-c32d-4bb4-7e7f25d7ba5b queued email template=order_confirmation
+2026-09-27T00:06:55Z ERROR notifications job_id=55b8fb74-c4cf-3128-01c7-1332142fcb2e SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:06:58Z ERROR notifications job_id=36c0fa3d-8526-62a7-74a3-684afbd5bef2 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:09Z ERROR notifications job_id=bb917046-c083-cbea-146e-0585e9b1e659 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:11Z ERROR notifications job_id=ae4d0899-2291-d998-e942-cd166e472d85 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:15Z ERROR notifications job_id=4165fe57-b4dc-2256-40ad-4cefc9a5da91 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:22Z INFO notifications job_id=183f62b6-2981-7160-29b6-f259fb1a9610 queued email template=order_confirmation
+2026-09-27T00:07:22Z ERROR notifications job_id=792b175b-c328-9f80-d63a-fe88c0d9342d SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:36Z ERROR notifications job_id=035e7890-6994-89af-055b-3b145738f44b SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:43Z ERROR notifications job_id=c53a1252-c560-c663-3d20-57b6e3cb1e3b SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:46Z ERROR notifications job_id=d3502210-d9f5-504c-6ccc-5642a0819378 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:49Z ERROR notifications job_id=293ec302-3625-87ea-0dab-a9daa6627de8 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:07:54Z ERROR notifications job_id=e9ed9eaf-84d1-b096-c6c0-a1a9f7a9c172 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:06Z INFO notifications job_id=c14c5c8c-e812-e2ba-037d-429bb6dc0dce queued email template=order_confirmation
+2026-09-27T00:08:06Z ERROR notifications job_id=fd5d25df-f29a-2d20-9c50-9d4070203f2e SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:10Z ERROR notifications job_id=c0cd4e3e-6413-3f9d-577c-f5e941d33661 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:13Z ERROR notifications job_id=426fe6d1-9e47-f6dd-a7ec-bd91a4aee33a SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:17Z ERROR notifications job_id=b1e60b4f-6421-4dcc-13f3-bac6105e7420 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:27Z INFO notifications job_id=13115908-2469-8eab-1ce4-7e62b8f22dff queued email template=order_confirmation
+2026-09-27T00:08:27Z ERROR notifications job_id=b0028946-e0b7-4601-ebb3-7335c4f9b13a SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:30Z INFO notifications job_id=68b07f17-b25f-b084-2c58-fd4371e6cba5 queued email template=order_confirmation
+2026-09-27T00:08:30Z ERROR notifications job_id=dc7ea817-eeab-75eb-57a3-d510529befff SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:32Z ERROR notifications job_id=1b48853f-dae2-3578-cd88-abb459caf2e7 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:38Z ERROR notifications job_id=129915ca-e7a6-16e8-2875-a8c4c84dfdc7 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:49Z ERROR notifications job_id=0bb01ded-24c6-7b3c-18db-fb92d63cff69 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:08:57Z INFO notifications job_id=91d27ae6-956b-3927-0fe2-4bbf1096ac41 queued email template=order_confirmation
+2026-09-27T00:08:57Z ERROR notifications job_id=ee44adb2-214c-efa1-f68c-5d175af98018 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:10Z INFO notifications job_id=c9b900b2-bcb7-406b-5ed7-2a8e5dc141e4 queued email template=order_confirmation
+2026-09-27T00:09:10Z ERROR notifications job_id=df563c41-3f90-e8c3-cbc4-49082a7378e0 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:18Z ERROR notifications job_id=a60b7bb6-31a5-e2f9-3811-6259c33cbd45 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:25Z INFO notifications job_id=434eccd7-dea2-01ee-0cf2-a9e4197fc860 queued email template=order_confirmation
+2026-09-27T00:09:25Z ERROR notifications job_id=3c1cb691-4826-0786-78fb-7cc8703757fd SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:28Z ERROR notifications job_id=17feee2c-6799-1e26-7c26-ec4f7ac1dc0c SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:33Z ERROR notifications job_id=30d79739-1162-441e-5c73-781b71a49af1 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:40Z ERROR notifications job_id=38ef8609-7be5-be85-3743-9c7390185a17 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:09:48Z INFO notifications job_id=865bef5c-0e54-3d5f-8583-82af2bafa4a7 queued email template=order_confirmation
+2026-09-27T00:09:48Z ERROR notifications job_id=1544ba7a-7a33-43ea-77ee-f239ec916c85 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:10:02Z ERROR notifications job_id=73f8c133-a189-515c-1912-47d73490b514 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:10:16Z ERROR notifications job_id=fbf36252-7997-7b48-41df-82702e12b23b SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:10:28Z ERROR notifications job_id=0643d66a-a4c0-7865-afd9-083fbd8e9bf1 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:10:40Z INFO notifications job_id=aa197f03-9adc-23a9-a6b0-25215d4f198f queued email template=order_confirmation
+2026-09-27T00:10:40Z ERROR notifications job_id=f2116a0e-526f-bd89-0ab0-db87db791bcd SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:10:52Z ERROR notifications job_id=3a1571fd-0401-9913-755f-b949e6ce7c19 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:01Z INFO notifications job_id=4900fe35-7063-f9b7-23f6-3108d6da1946 queued email template=order_confirmation
+2026-09-27T00:11:01Z ERROR notifications job_id=955357c1-3309-f07f-10f4-066866e8f2dc SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:05Z INFO notifications job_id=3bac7ef4-10d9-7a20-5fab-da6f82fbaf2a queued email template=order_confirmation
+2026-09-27T00:11:05Z ERROR notifications job_id=fdea0e80-3657-9f08-e7f0-31413764b7d9 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:14Z INFO notifications job_id=455ef033-39ed-f995-f611-5260c17b9d13 queued email template=order_confirmation
+2026-09-27T00:11:14Z ERROR notifications job_id=57d99f71-69be-ab2d-b57c-918e05e05c97 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:28Z INFO notifications job_id=27a1b02e-9b87-cfcd-4202-74439b4d6582 queued email template=order_confirmation
+2026-09-27T00:11:28Z ERROR notifications job_id=b6342b23-62f4-233f-42d5-8fe53d8d780f SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:34Z ERROR notifications job_id=2317cb32-ff9c-85af-22a0-523b94d77a67 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:36Z INFO notifications job_id=2ae161c3-1489-95e9-d1c4-ca3e73d1b53a queued email template=order_confirmation
+2026-09-27T00:11:36Z ERROR notifications job_id=91f6a4ba-a965-3914-dc37-f4f926986a17 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:42Z ERROR notifications job_id=1847a1f9-0d35-6f82-ea2e-1aa6d1d14ed0 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:48Z INFO notifications job_id=ded5e96a-236c-6b8a-12c6-60798785a254 queued email template=order_confirmation
+2026-09-27T00:11:48Z ERROR notifications job_id=a9c32136-a746-b4a7-8347-1dd99544ea7c SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:53Z ERROR notifications job_id=ae0867ca-cd12-5e9b-e615-f65e859b11e1 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:11:58Z ERROR notifications job_id=40db6dd7-9200-61ca-2e78-b12ddc04a8f5 SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)
+2026-09-27T00:12:10Z INFO notifications job_id=f4d03405-861b-41e7-ad6a-12cbd272a825 queued email template=order_confirmation
+2026-09-27T00:12:10Z ERROR notifications job_id=9fcee3ee-aeb0-78c0-365b-53ffac0f579c SMTP TLS handshake failed: certificate has expired (peer=smtp.email-provider.example notAfter=Sep 26 23:59:59 2026 GMT)

@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4188",
+  "service": "checkout-api",
+  "title": "Checkout p99 latency and timeouts elevated",
+  "severity": "SEV2",
+  "onset_at": "2026-09-17T10:44:00Z",
+  "fired_at": "2026-09-17T10:49:00Z",
+  "signal": "latency",
+  "detail": "Payment step failing for 12% of requests."
+}

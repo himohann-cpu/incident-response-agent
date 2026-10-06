@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4520",
+  "service": "checkout-api",
+  "title": "Checkout p99 latency above 3s",
+  "severity": "SEV2",
+  "onset_at": "2026-10-01T18:02:00Z",
+  "fired_at": "2026-10-01T18:06:00Z",
+  "signal": "latency",
+  "detail": "Request volume is 4x the same hour last week."
+}

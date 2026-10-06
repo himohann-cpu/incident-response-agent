@@ -1,0 +1,27 @@
+[
+  {
+    "id": "C1",
+    "service": "cart-service",
+    "kind": "deploy",
+    "at": "2026-09-24T15:20:00Z",
+    "author": "jchen",
+    "ref": "b8812fa",
+    "summary": "Cache product lookups in process",
+    "files": [
+      "app/cache/product_cache.py",
+      "app/handlers/cart.py"
+    ]
+  },
+  {
+    "id": "C2",
+    "service": "cart-service",
+    "kind": "config",
+    "at": "2026-09-24T21:15:00Z",
+    "author": "sre-bot",
+    "ref": "CHG-2388",
+    "summary": "Enable trace sampling at 1%",
+    "files": [
+      "config/observability.yaml"
+    ]
+  }
+]

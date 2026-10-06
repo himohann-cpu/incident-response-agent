@@ -1,0 +1,6 @@
+{
+  "cause": {
+    "kind": "dependency"
+  },
+  "runbook": "dependency-outage"
+}

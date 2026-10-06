@@ -1,0 +1,40 @@
+[
+  {
+    "id": "C1",
+    "service": "checkout-api",
+    "kind": "deploy",
+    "at": "2026-09-15T13:58:00Z",
+    "author": "rkapoor",
+    "ref": "9f3c2ab",
+    "summary": "Add promo code validation to pricing",
+    "files": [
+      "app/pricing/promo.py",
+      "app/pricing/__init__.py",
+      "tests/test_promo.py"
+    ]
+  },
+  {
+    "id": "C2",
+    "service": "search-api",
+    "kind": "deploy",
+    "at": "2026-09-15T13:30:00Z",
+    "author": "mlopez",
+    "ref": "71be0d4",
+    "summary": "Tune relevance weights",
+    "files": [
+      "app/ranking/weights.py"
+    ]
+  },
+  {
+    "id": "C3",
+    "service": "cart-service",
+    "kind": "config",
+    "at": "2026-09-15T09:10:00Z",
+    "author": "jchen",
+    "ref": "CHG-2291",
+    "summary": "Raise cart cache TTL to 10 minutes",
+    "files": [
+      "config/cache.yaml"
+    ]
+  }
+]

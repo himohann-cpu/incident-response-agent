@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4101",
+  "service": "checkout-api",
+  "title": "Checkout 5xx rate above 5%",
+  "severity": "SEV2",
+  "onset_at": "2026-09-15T14:07:00Z",
+  "fired_at": "2026-09-15T14:10:00Z",
+  "signal": "errors",
+  "detail": "5xx rate rose from 0.2% to 31% on POST /checkout."
+}

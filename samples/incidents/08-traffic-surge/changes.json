@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C1",
+    "service": "checkout-api",
+    "kind": "deploy",
+    "at": "2026-10-01T17:50:00Z",
+    "author": "rkapoor",
+    "ref": "63f0a8e",
+    "summary": "Rename internal metric labels",
+    "files": [
+      "app/metrics.py"
+    ]
+  }
+]

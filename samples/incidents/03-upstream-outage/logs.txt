@@ -1,0 +1,84 @@
+2026-09-19T16:21:13Z ERROR checkout-api request_id=e7cc7215-24f8-b34e-7dca-7f883f1efd5b upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:21:23Z ERROR checkout-api request_id=290d2ec3-d73c-5218-77cc-9004b2258e57 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:21:35Z INFO request_id=5ffd3d40-6d02-6b37-fffc-ad0af5eac4c1 GET /cart 200 97ms
+2026-09-19T16:21:35Z ERROR checkout-api request_id=5c418d05-a2d9-a582-074d-9c13054367ba upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:21:47Z ERROR checkout-api request_id=cf0061ca-fb51-180e-82b8-7c137bf2a7f5 payment declined by issuer code=51
+2026-09-19T16:21:51Z INFO request_id=a01235b8-207c-56ae-182e-a8b5dc97b77e GET /cart 200 394ms
+2026-09-19T16:21:51Z ERROR checkout-api request_id=c74d5921-8689-8ddb-c544-35f2e98e99de upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:21:59Z ERROR checkout-api request_id=0d7f139b-d3a4-4a05-4afa-d3e65aecfabb upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:22:07Z ERROR checkout-api request_id=df7a9c99-81a5-5845-f999-a791341aa3ee payment declined by issuer code=51
+2026-09-19T16:22:21Z INFO request_id=512d126e-b693-4c99-20a8-f9069621a9d3 GET /health 200 670ms
+2026-09-19T16:22:21Z ERROR checkout-api request_id=ff1a5c0c-0a40-661c-b901-e2b68de63750 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:22:31Z ERROR checkout-api request_id=1bc6b08b-0197-0be0-309f-ebe2d26c0cf8 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:22:42Z ERROR checkout-api request_id=80373ba8-e8ea-8b2c-9c9a-9ddf60446ef6 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:22:54Z ERROR checkout-api request_id=e056a8d5-ae54-153f-3666-aac00a1afaea upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:03Z ERROR checkout-api request_id=a9e2fa40-2e69-de84-0977-c6476bec1ab7 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:15Z INFO request_id=c95ab050-4f31-8fe5-b5cb-dcc9420c7738 GET /health 200 329ms
+2026-09-19T16:23:15Z ERROR checkout-api request_id=08c401a1-5187-0538-6e40-a44a90fb2d7d upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:17Z ERROR checkout-api request_id=d32339ae-1e6c-c616-cf71-93486bcb5706 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:25Z ERROR checkout-api request_id=631bcb09-9807-978b-fe3d-a8cef00e60f8 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:34Z ERROR checkout-api request_id=153a8e30-a4fe-78e1-3657-26dae551550e upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:36Z ERROR checkout-api request_id=ab5b95f4-1f25-fc94-f762-1690dbc47e5e upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:39Z INFO request_id=46839f5b-b827-91a9-3e05-bbca736619a2 GET /health 200 782ms
+2026-09-19T16:23:39Z ERROR checkout-api request_id=0cd5e3e3-5da9-c626-bf4b-b1e1b6ab58ca upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:43Z ERROR checkout-api request_id=a0ed7277-8eb7-b590-7f83-ab6775e88d7e upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:45Z ERROR checkout-api request_id=03c55116-e222-a694-afc7-9e43d13d6b96 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:23:53Z ERROR checkout-api request_id=2a7ec806-f52b-dc68-d5bd-9be47c8005c5 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:00Z ERROR checkout-api request_id=70503308-7844-ad47-2a9d-f76325189807 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:03Z ERROR checkout-api request_id=a13475fe-cd45-6aff-7a1a-c73162bfb10e upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:12Z ERROR checkout-api request_id=911ae38d-5579-4ad9-47a7-9f310f85f59b upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:25Z ERROR checkout-api request_id=de9b5dec-9b17-b9c8-fa3a-d4cf03f7d891 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:36Z ERROR checkout-api request_id=f9f4886c-e35c-3f01-606d-af506329cfd3 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:47Z ERROR checkout-api request_id=73866561-4886-b045-006e-4356524f853f upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:24:55Z INFO request_id=49dc8a9f-d54e-2402-cfcf-de01e3ff2dd0 GET /health 200 605ms
+2026-09-19T16:24:55Z ERROR checkout-api request_id=f9b1de86-d9e7-cc19-ce99-af448c3fc5e6 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:04Z ERROR checkout-api request_id=8dbd9a53-7c19-cc21-61b9-c9a6334f6a84 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:17Z ERROR checkout-api request_id=9b5dae4e-0ebc-ad7b-653f-b555771f672a upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:23Z ERROR checkout-api request_id=628da935-75b0-8a62-1673-ce7b89414113 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:37Z INFO request_id=946009c1-8562-e59d-4271-d554e2958512 GET /cart 200 554ms
+2026-09-19T16:25:37Z ERROR checkout-api request_id=8194455d-96de-33ad-306c-313b3673174d upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:41Z ERROR checkout-api request_id=93ef0704-907e-5be0-6709-8468c7966470 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:45Z INFO request_id=5fc11cc0-ddca-1b2a-5f25-76a3a1fb68f1 GET /cart 200 826ms
+2026-09-19T16:25:45Z ERROR checkout-api request_id=50d7941d-98e2-07c5-584c-84fb47d1ffb9 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:25:47Z INFO request_id=fd8b289c-deea-ddb7-90c2-96327c7f2cba GET /health 200 600ms
+2026-09-19T16:25:47Z ERROR checkout-api request_id=eced4301-c779-47a2-6d0b-f24d18dc0ddb upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:01Z ERROR checkout-api request_id=2182e980-4105-d7ff-09b1-337456be6d2a upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:09Z INFO request_id=08e9500c-8eb0-5ea0-dee4-7551b4a041f3 GET /health 200 518ms
+2026-09-19T16:26:09Z ERROR checkout-api request_id=e8f07f9f-e511-106e-dceb-a3cc991aff0a payment declined by issuer code=51
+2026-09-19T16:26:12Z ERROR checkout-api request_id=5197044a-9081-3bb3-a400-f4d716fc08e0 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:22Z ERROR checkout-api request_id=28e3f65a-5ef4-f73c-3c31-b880fde11576 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:26Z INFO request_id=f0f058c5-5a1d-0f2c-e71a-e7928d869707 GET /cart 200 48ms
+2026-09-19T16:26:26Z ERROR checkout-api request_id=0c0af636-4205-c94f-8369-bd54b5a8e33b upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:40Z ERROR checkout-api request_id=25117412-5153-c144-017a-32eef07b3e87 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:53Z INFO request_id=c2059717-a70b-1afc-7881-5f2652ec5127 GET /cart 200 283ms
+2026-09-19T16:26:53Z ERROR checkout-api request_id=5ffee55e-7b37-6130-2b27-3d0b70fe98a0 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:26:57Z ERROR checkout-api request_id=77c82d55-b79c-e99f-31f2-0938cc816356 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:02Z INFO request_id=e3825693-bfc4-23c7-c73f-f53c727ea8e2 GET /cart 200 119ms
+2026-09-19T16:27:02Z ERROR checkout-api request_id=62948bfe-d79d-0590-a0dc-73cc133d4b63 payment declined by issuer code=51
+2026-09-19T16:27:09Z ERROR checkout-api request_id=a0d09c62-5db4-248c-54fc-bc6e38be1ce3 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:13Z ERROR checkout-api request_id=250bc6e7-7060-dee7-263e-6b1344329463 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:18Z INFO request_id=922c6c73-d6ed-4bea-55a2-2af4cddc68d6 GET /cart 200 286ms
+2026-09-19T16:27:18Z ERROR checkout-api request_id=516cd45d-74c8-e736-7b80-27431d3a2005 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:20Z ERROR checkout-api request_id=ecdbc47b-360e-8f58-7a3a-4946d5d50f76 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:26Z ERROR checkout-api request_id=6e9b7343-fdb3-42f3-ff82-ecd23d19ce0e payment declined by issuer code=51
+2026-09-19T16:27:29Z ERROR checkout-api request_id=29858691-0eb7-d513-b9fa-4b24fa811b6d upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:41Z INFO request_id=82c2c4ba-23e0-7168-007e-d50dca20ed96 GET /cart 200 559ms
+2026-09-19T16:27:41Z ERROR checkout-api request_id=5c2f7626-6f6c-0a61-e977-37e068b053ed upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:52Z INFO request_id=858b089a-c53b-3afc-b62c-325b2cf5ec78 GET /health 200 635ms
+2026-09-19T16:27:52Z ERROR checkout-api request_id=1661392b-e3aa-9bca-bb18-c2e37ed7cc99 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:27:56Z INFO request_id=953b1a8b-4edb-33c9-0291-b13610d16824 GET /health 200 770ms
+2026-09-19T16:27:56Z ERROR checkout-api request_id=d75037b1-b8be-ea8f-0e2c-cf8684b9bda5 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:03Z INFO request_id=171fddd2-03f4-68d6-e903-7a03c352b37e GET /cart 200 156ms
+2026-09-19T16:28:03Z ERROR checkout-api request_id=442995fa-3f93-2fa1-9029-fc57d4e53bb1 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:05Z INFO request_id=932df074-984b-dbaa-0130-85135b2d18e2 GET /cart 200 476ms
+2026-09-19T16:28:05Z ERROR checkout-api request_id=1243749c-1eea-5b51-b6ef-d1083ea65dd8 payment declined by issuer code=51
+2026-09-19T16:28:12Z ERROR checkout-api request_id=93892b39-c056-e5e6-0fab-df704aa27976 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:25Z ERROR checkout-api request_id=87cf894b-cdf3-898e-2266-3e58054bcbcb upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:30Z ERROR checkout-api request_id=4fd98632-401e-8e2c-d130-07b2f4921539 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:33Z ERROR checkout-api request_id=42ec600e-0487-d65b-9972-9394a307c31e upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:43Z INFO request_id=1a555522-59c7-de99-180a-2dd1b793be67 GET /cart 200 66ms
+2026-09-19T16:28:43Z ERROR checkout-api request_id=77001ae3-7e5c-95fd-8031-4795c2f268b9 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:46Z INFO request_id=8aa62560-9780-3a39-dc70-25b03a1ed8f1 GET /health 200 704ms
+2026-09-19T16:28:46Z ERROR checkout-api request_id=bf1fc521-6588-2a11-f2bc-04bcd375a49f upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:28:54Z ERROR checkout-api request_id=9a5075c3-868e-0944-6548-f0f8f8722666 upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal
+2026-09-19T16:29:08Z ERROR checkout-api request_id=d6ac6c77-55c7-b72c-6f82-fb31d7d0912a upstream payments-gateway returned 503 Service Unavailable for POST /v2/charge host=payments-gateway.internal

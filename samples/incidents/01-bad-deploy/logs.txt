@@ -1,0 +1,229 @@
+2026-09-15T14:07:12Z ERROR checkout-api request_id=0c5c7fd0-128b-d23f-892f-5d9d1818e811 Unhandled exception in POST /checkout
+2026-09-15T14:07:12Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:12Z KeyError: 'discount_type'
+2026-09-15T14:07:23Z INFO request_id=a170b338-a09f-953f-f29d-93bd0fd630f1 GET /health 200 619ms
+2026-09-15T14:07:23Z ERROR checkout-api request_id=f9ebdacc-3898-0bec-8e81-2217dbc496cb Unhandled exception in POST /checkout
+2026-09-15T14:07:23Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:23Z KeyError: 'discount_type'
+2026-09-15T14:07:28Z ERROR checkout-api request_id=1012f037-907a-0f42-9e77-7f1534b9b5df Unhandled exception in POST /checkout
+2026-09-15T14:07:28Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:28Z KeyError: 'discount_type'
+2026-09-15T14:07:33Z INFO request_id=86734721-7ebf-e009-57ee-72e6babced20 GET /cart 200 314ms
+2026-09-15T14:07:33Z ERROR checkout-api request_id=12bd4ace-1e39-830e-6b0a-c1d32a3af4d4 Unhandled exception in POST /checkout
+2026-09-15T14:07:33Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:33Z KeyError: 'discount_type'
+2026-09-15T14:07:40Z ERROR checkout-api request_id=7f26144b-9474-cc01-74c9-d708119a72d1 Unhandled exception in POST /checkout
+2026-09-15T14:07:40Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:40Z KeyError: 'discount_type'
+2026-09-15T14:07:49Z INFO request_id=e3151288-ab2c-58d5-05c6-7631f0ce5835 GET /cart 200 383ms
+2026-09-15T14:07:49Z ERROR checkout-api request_id=1df9fd78-7e62-0f17-37dc-4995c4aaeac1 Unhandled exception in POST /checkout
+2026-09-15T14:07:49Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:49Z KeyError: 'discount_type'
+2026-09-15T14:07:57Z ERROR checkout-api request_id=6a50df4d-fc89-5bd8-aec6-6164e25a7605 Unhandled exception in POST /checkout
+2026-09-15T14:07:57Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:57Z KeyError: 'discount_type'
+2026-09-15T14:07:59Z INFO request_id=9c1caaf7-90fb-5190-f3fe-b0c420203626 GET /cart 200 899ms
+2026-09-15T14:07:59Z ERROR checkout-api request_id=9e1a8ef4-a7ab-ad1b-bd62-74e60dd27a65 Unhandled exception in POST /checkout
+2026-09-15T14:07:59Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:07:59Z KeyError: 'discount_type'
+2026-09-15T14:08:04Z INFO request_id=70ccec31-298c-1c24-570d-0d7599c94309 GET /health 200 124ms
+2026-09-15T14:08:04Z ERROR checkout-api request_id=26b94c7f-895f-19f9-f2ee-9d1d5d158a2f Unhandled exception in POST /checkout
+2026-09-15T14:08:04Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:08:04Z KeyError: 'discount_type'
+2026-09-15T14:08:07Z ERROR checkout-api request_id=774b15d7-7afb-7bdc-4fd5-24e415fc899e payment declined by issuer code=51
+2026-09-15T14:08:20Z ERROR checkout-api request_id=d42fddbb-b12a-2954-842e-348805e999f3 Unhandled exception in POST /checkout
+2026-09-15T14:08:20Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:08:20Z KeyError: 'discount_type'
+2026-09-15T14:08:26Z ERROR checkout-api request_id=5b0ee76f-c59d-3908-8857-c7708aa4248c payment declined by issuer code=51
+2026-09-15T14:08:33Z ERROR checkout-api request_id=c9d488b1-fc24-c221-da45-ce5b31f51707 Unhandled exception in POST /checkout
+2026-09-15T14:08:33Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:08:33Z KeyError: 'discount_type'
+2026-09-15T14:08:39Z ERROR checkout-api request_id=9aea6429-f4de-5822-727d-efe0cefe2a1f Unhandled exception in POST /checkout
+2026-09-15T14:08:39Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:08:39Z KeyError: 'discount_type'
+2026-09-15T14:08:50Z ERROR checkout-api request_id=007d1034-7abe-e8c1-a729-ccb55810d60e Unhandled exception in POST /checkout
+2026-09-15T14:08:50Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:08:50Z KeyError: 'discount_type'
+2026-09-15T14:09:04Z ERROR checkout-api request_id=f237e45a-f8be-b8c9-6555-66c17691b06f Unhandled exception in POST /checkout
+2026-09-15T14:09:04Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:04Z KeyError: 'discount_type'
+2026-09-15T14:09:08Z ERROR checkout-api request_id=796f74ad-a842-effd-59b4-8c7427e9e06f Unhandled exception in POST /checkout
+2026-09-15T14:09:08Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:08Z KeyError: 'discount_type'
+2026-09-15T14:09:13Z INFO request_id=4affdcd1-804c-3d93-c380-53749620bf0d GET /health 200 285ms
+2026-09-15T14:09:13Z ERROR checkout-api request_id=d58dcdb4-218e-0f97-e8f6-5a91bd6b881a Unhandled exception in POST /checkout
+2026-09-15T14:09:13Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:13Z KeyError: 'discount_type'
+2026-09-15T14:09:23Z INFO request_id=c6c91b92-2ee0-9bca-0101-cc96c6aa7d55 GET /cart 200 173ms
+2026-09-15T14:09:23Z ERROR checkout-api request_id=7936d536-9e7d-b9a6-1ece-0fcf8e752fdf Unhandled exception in POST /checkout
+2026-09-15T14:09:23Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:23Z KeyError: 'discount_type'
+2026-09-15T14:09:25Z ERROR checkout-api request_id=8fcd7f40-0722-c28e-e4dd-1038e998d0ee Unhandled exception in POST /checkout
+2026-09-15T14:09:25Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:25Z KeyError: 'discount_type'
+2026-09-15T14:09:35Z ERROR checkout-api request_id=e064a114-e040-f132-ed84-ec3b4274a3eb Unhandled exception in POST /checkout
+2026-09-15T14:09:35Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:35Z KeyError: 'discount_type'
+2026-09-15T14:09:43Z INFO request_id=c8b007ee-1f52-e5a3-c6e5-f0832789d059 GET /cart 200 753ms
+2026-09-15T14:09:43Z ERROR checkout-api request_id=5dbe3023-249a-40cb-e201-f7b123231e1e Unhandled exception in POST /checkout
+2026-09-15T14:09:43Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:43Z KeyError: 'discount_type'
+2026-09-15T14:09:51Z ERROR checkout-api request_id=6bd8c676-321c-5b4b-518a-b8de179a071e Unhandled exception in POST /checkout
+2026-09-15T14:09:51Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:51Z KeyError: 'discount_type'
+2026-09-15T14:09:54Z ERROR checkout-api request_id=f8c110fb-e05b-1ad2-1585-459c43fc0527 Unhandled exception in POST /checkout
+2026-09-15T14:09:54Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:09:54Z KeyError: 'discount_type'
+2026-09-15T14:10:02Z INFO request_id=b34e8ece-53b9-16e6-4770-ccb10eba0ea8 GET /cart 200 724ms
+2026-09-15T14:10:02Z ERROR checkout-api request_id=e5316960-1289-44d8-f037-a26a044f1574 Unhandled exception in POST /checkout
+2026-09-15T14:10:02Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:02Z KeyError: 'discount_type'
+2026-09-15T14:10:10Z ERROR checkout-api request_id=2114e068-0b0f-86e3-b5a4-f0293d0a270b Unhandled exception in POST /checkout
+2026-09-15T14:10:10Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:10Z KeyError: 'discount_type'
+2026-09-15T14:10:20Z ERROR checkout-api request_id=cdbde747-04a6-fe97-401d-03ed09758340 Unhandled exception in POST /checkout
+2026-09-15T14:10:20Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:20Z KeyError: 'discount_type'
+2026-09-15T14:10:28Z ERROR checkout-api request_id=e3838b9e-64a1-f866-81b6-b00f4ecadea2 Unhandled exception in POST /checkout
+2026-09-15T14:10:28Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:28Z KeyError: 'discount_type'
+2026-09-15T14:10:32Z INFO request_id=6e4505f5-29ca-0e2e-15a0-d75daa4c5c60 GET /cart 200 410ms
+2026-09-15T14:10:32Z ERROR checkout-api request_id=aba8b9b3-f88e-482c-9949-b1533e01aaa6 Unhandled exception in POST /checkout
+2026-09-15T14:10:32Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:32Z KeyError: 'discount_type'
+2026-09-15T14:10:39Z INFO request_id=37c60e98-5b49-2ed6-0046-61b255d85e8d GET /cart 200 105ms
+2026-09-15T14:10:39Z ERROR checkout-api request_id=80b5244a-a7f0-3373-3f88-c6b781365acc Unhandled exception in POST /checkout
+2026-09-15T14:10:39Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:39Z KeyError: 'discount_type'
+2026-09-15T14:10:42Z ERROR checkout-api request_id=c0236e49-27be-a854-e48e-c8b6b74b589b Unhandled exception in POST /checkout
+2026-09-15T14:10:42Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:42Z KeyError: 'discount_type'
+2026-09-15T14:10:55Z ERROR checkout-api request_id=bbddbb9b-b378-cfed-816b-e8ee23a9a9da Unhandled exception in POST /checkout
+2026-09-15T14:10:55Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:10:55Z KeyError: 'discount_type'
+2026-09-15T14:11:08Z ERROR checkout-api request_id=0ab77988-2212-a31a-5c57-1adbf5a2d879 Unhandled exception in POST /checkout
+2026-09-15T14:11:08Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:11:08Z KeyError: 'discount_type'
+2026-09-15T14:11:22Z INFO request_id=a8c7d9e0-86a7-10e8-bee8-794ebc9e28ea GET /health 200 278ms
+2026-09-15T14:11:22Z ERROR checkout-api request_id=d89c36b2-43fb-3c1a-bab5-3489c1a624dc Unhandled exception in POST /checkout
+2026-09-15T14:11:22Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:11:22Z KeyError: 'discount_type'
+2026-09-15T14:11:33Z ERROR checkout-api request_id=998648e0-25bd-54ef-4102-be43a6caf4a3 Unhandled exception in POST /checkout
+2026-09-15T14:11:33Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:11:33Z KeyError: 'discount_type'
+2026-09-15T14:11:45Z ERROR checkout-api request_id=491961a1-76f4-7745-7762-1e56c4653cde Unhandled exception in POST /checkout
+2026-09-15T14:11:45Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:11:45Z KeyError: 'discount_type'
+2026-09-15T14:11:51Z ERROR checkout-api request_id=ee379c65-35f1-1319-94db-2449171e1a8c payment declined by issuer code=51
+2026-09-15T14:12:01Z INFO request_id=21f267e2-9a76-d1f9-a1b5-4791823d11ed GET /cart 200 135ms
+2026-09-15T14:12:01Z ERROR checkout-api request_id=3b3bf4bf-7f75-e5d0-e04b-64e27c73b6c9 Unhandled exception in POST /checkout
+2026-09-15T14:12:01Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:01Z KeyError: 'discount_type'
+2026-09-15T14:12:04Z ERROR checkout-api request_id=c0301b21-5699-d6cf-65f4-f09c1ebb0794 Unhandled exception in POST /checkout
+2026-09-15T14:12:04Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:04Z KeyError: 'discount_type'
+2026-09-15T14:12:11Z ERROR checkout-api request_id=dab07929-0c5b-47d7-1a09-d5ad0d36ce2c Unhandled exception in POST /checkout
+2026-09-15T14:12:11Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:11Z KeyError: 'discount_type'
+2026-09-15T14:12:19Z ERROR checkout-api request_id=a1826327-6669-e9d6-e02f-8ddcf0d1ab56 Unhandled exception in POST /checkout
+2026-09-15T14:12:19Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:19Z KeyError: 'discount_type'
+2026-09-15T14:12:28Z INFO request_id=2bb71c68-78e1-6a34-57fa-4c3a48208231 GET /health 200 281ms
+2026-09-15T14:12:28Z ERROR checkout-api request_id=f9ee8bc8-a71f-429a-67fd-3d19a7ef4f5d Unhandled exception in POST /checkout
+2026-09-15T14:12:28Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:28Z KeyError: 'discount_type'
+2026-09-15T14:12:38Z INFO request_id=ff18fe33-c25e-7330-6d6b-8c3b23bc9152 GET /cart 200 217ms
+2026-09-15T14:12:38Z ERROR checkout-api request_id=2cb8d14c-578a-8e4d-1751-3d3751bcd77a Unhandled exception in POST /checkout
+2026-09-15T14:12:38Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:38Z KeyError: 'discount_type'
+2026-09-15T14:12:46Z INFO request_id=7f867d5f-470b-9304-f7ba-20395c327a6d GET /health 200 723ms
+2026-09-15T14:12:46Z ERROR checkout-api request_id=a12f3a94-ca51-dce4-d93f-17b437495c5e Unhandled exception in POST /checkout
+2026-09-15T14:12:46Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:46Z KeyError: 'discount_type'
+2026-09-15T14:12:50Z INFO request_id=f7e147fd-9651-7d65-000b-643a12b92a01 GET /cart 200 865ms
+2026-09-15T14:12:50Z ERROR checkout-api request_id=77d8c569-f8e4-72ee-3f9b-1beac879b663 Unhandled exception in POST /checkout
+2026-09-15T14:12:50Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:50Z KeyError: 'discount_type'
+2026-09-15T14:12:53Z ERROR checkout-api request_id=c844b8fd-202a-3b8a-91c3-099feb7fe26b Unhandled exception in POST /checkout
+2026-09-15T14:12:53Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:53Z KeyError: 'discount_type'
+2026-09-15T14:12:59Z ERROR checkout-api request_id=635956be-42c9-393c-ca5d-004b99df209b Unhandled exception in POST /checkout
+2026-09-15T14:12:59Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:12:59Z KeyError: 'discount_type'
+2026-09-15T14:13:09Z INFO request_id=b4642ea4-a64f-4eb1-0e28-31b10593dba2 GET /cart 200 530ms
+2026-09-15T14:13:09Z ERROR checkout-api request_id=a5acd341-6b86-14c2-41db-aad73a53c176 Unhandled exception in POST /checkout
+2026-09-15T14:13:09Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:09Z KeyError: 'discount_type'
+2026-09-15T14:13:23Z INFO request_id=34893498-7ee5-f848-334e-c40f4fcc9a5c GET /health 200 859ms
+2026-09-15T14:13:23Z ERROR checkout-api request_id=7711b757-38b0-43d8-c2ae-4b80e3ab6283 Unhandled exception in POST /checkout
+2026-09-15T14:13:23Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:23Z KeyError: 'discount_type'
+2026-09-15T14:13:27Z ERROR checkout-api request_id=060c8804-f95f-989b-2454-0d456a56aac3 Unhandled exception in POST /checkout
+2026-09-15T14:13:27Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:27Z KeyError: 'discount_type'
+2026-09-15T14:13:32Z INFO request_id=082a2f4d-4fd3-aa18-b9b2-d6d160ed33a0 GET /cart 200 402ms
+2026-09-15T14:13:32Z ERROR checkout-api request_id=71436e1d-2b54-1be4-00bc-47a11407ab33 payment declined by issuer code=51
+2026-09-15T14:13:39Z ERROR checkout-api request_id=8fa624f7-f6da-c241-3518-5b4c61502dee Unhandled exception in POST /checkout
+2026-09-15T14:13:39Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:39Z KeyError: 'discount_type'
+2026-09-15T14:13:44Z ERROR checkout-api request_id=797b1538-07c0-a1b4-692a-cfd33f7dc86b Unhandled exception in POST /checkout
+2026-09-15T14:13:44Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:44Z KeyError: 'discount_type'
+2026-09-15T14:13:55Z ERROR checkout-api request_id=f52b2549-f429-9df2-0b28-bf16431dbc3f Unhandled exception in POST /checkout
+2026-09-15T14:13:55Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:55Z KeyError: 'discount_type'
+2026-09-15T14:13:57Z ERROR checkout-api request_id=b72fac4a-f4ef-773a-f433-62f2c6bf4fa2 Unhandled exception in POST /checkout
+2026-09-15T14:13:57Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:13:57Z KeyError: 'discount_type'
+2026-09-15T14:14:10Z ERROR checkout-api request_id=53eab031-dc7a-51cd-75f5-c8a95ca2c132 Unhandled exception in POST /checkout
+2026-09-15T14:14:10Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:10Z KeyError: 'discount_type'
+2026-09-15T14:14:20Z ERROR checkout-api request_id=e22b64a6-1aef-fce2-1279-9fe543cfeadf payment declined by issuer code=51
+2026-09-15T14:14:25Z INFO request_id=fd09e37c-b5b3-f8dc-726c-3bf42c564d56 GET /cart 200 156ms
+2026-09-15T14:14:25Z ERROR checkout-api request_id=9ecc7b5f-e429-ac92-3c24-89dfbf7b6c6c Unhandled exception in POST /checkout
+2026-09-15T14:14:25Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:25Z KeyError: 'discount_type'
+2026-09-15T14:14:31Z INFO request_id=2f8c6c08-3ece-3c49-2740-e2584806d26f GET /health 200 612ms
+2026-09-15T14:14:31Z ERROR checkout-api request_id=10970046-6564-406c-fe11-81e03ef68756 Unhandled exception in POST /checkout
+2026-09-15T14:14:31Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:31Z KeyError: 'discount_type'
+2026-09-15T14:14:40Z ERROR checkout-api request_id=4b2e7245-3b9e-1e84-0ce6-99b93087de35 Unhandled exception in POST /checkout
+2026-09-15T14:14:40Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:40Z KeyError: 'discount_type'
+2026-09-15T14:14:43Z ERROR checkout-api request_id=5985ea3f-37b7-0996-5e63-2430570b534d Unhandled exception in POST /checkout
+2026-09-15T14:14:43Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:43Z KeyError: 'discount_type'
+2026-09-15T14:14:55Z ERROR checkout-api request_id=13f38870-3412-080e-cb97-8c4c7ee14b90 Unhandled exception in POST /checkout
+2026-09-15T14:14:55Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:14:55Z KeyError: 'discount_type'
+2026-09-15T14:15:08Z INFO request_id=aaf5a86e-4ebe-6af7-f404-4ff60d25f954 GET /cart 200 783ms
+2026-09-15T14:15:08Z ERROR checkout-api request_id=5b7042df-6a01-6a9c-04a9-c444dd3f4006 Unhandled exception in POST /checkout
+2026-09-15T14:15:08Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:08Z KeyError: 'discount_type'
+2026-09-15T14:15:11Z ERROR checkout-api request_id=75fdf37c-c5e6-299c-2146-0d3b03cc2f9b Unhandled exception in POST /checkout
+2026-09-15T14:15:11Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:11Z KeyError: 'discount_type'
+2026-09-15T14:15:18Z INFO request_id=eced8ded-112d-1bd9-623c-c0e97d920a56 GET /health 200 844ms
+2026-09-15T14:15:18Z ERROR checkout-api request_id=ce017551-3284-4d36-206c-f16dd658c99a Unhandled exception in POST /checkout
+2026-09-15T14:15:18Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:18Z KeyError: 'discount_type'
+2026-09-15T14:15:22Z ERROR checkout-api request_id=9efd55d2-678c-9d5e-d8aa-d4453234752b Unhandled exception in POST /checkout
+2026-09-15T14:15:22Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:22Z KeyError: 'discount_type'
+2026-09-15T14:15:27Z INFO request_id=aafb4294-d694-52fe-1e23-997a63cc537b GET /health 200 486ms
+2026-09-15T14:15:27Z ERROR checkout-api request_id=a085da1f-c730-4e64-a626-4ee66b89d463 Unhandled exception in POST /checkout
+2026-09-15T14:15:27Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:27Z KeyError: 'discount_type'
+2026-09-15T14:15:36Z INFO request_id=d627d2b8-2df8-cf7e-7924-1b69667cd60b GET /cart 200 88ms
+2026-09-15T14:15:36Z ERROR checkout-api request_id=6e3bbc97-5d86-177a-cd62-811c7124c205 Unhandled exception in POST /checkout
+2026-09-15T14:15:36Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:36Z KeyError: 'discount_type'
+2026-09-15T14:15:46Z ERROR checkout-api request_id=c8c42276-22dd-069e-db68-ff0110fe52d4 Unhandled exception in POST /checkout
+2026-09-15T14:15:46Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:15:46Z KeyError: 'discount_type'
+2026-09-15T14:16:00Z ERROR checkout-api request_id=d541da56-59d4-9c46-c194-28a440918a58 Unhandled exception in POST /checkout
+2026-09-15T14:16:00Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:16:00Z KeyError: 'discount_type'
+2026-09-15T14:16:06Z ERROR checkout-api request_id=5f4ce302-096d-32ed-2e9d-294667498314 Unhandled exception in POST /checkout
+2026-09-15T14:16:06Z Traceback: File "/srv/app/pricing/promo.py", line 88, in apply_promo
+2026-09-15T14:16:06Z KeyError: 'discount_type'

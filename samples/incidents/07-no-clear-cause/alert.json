@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4466",
+  "service": "search-api",
+  "title": "Search p99 latency above 2s",
+  "severity": "SEV3",
+  "onset_at": "2026-09-29T08:50:00Z",
+  "fired_at": "2026-09-29T08:58:00Z",
+  "signal": "latency",
+  "detail": "Slow across all query types."
+}

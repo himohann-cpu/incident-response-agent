@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "service": "orders-db",
+    "kind": "migration",
+    "at": "2026-09-22T11:30:00Z",
+    "author": "dba-bot",
+    "ref": "MIG-0042",
+    "summary": "Add index on orders.customer_id",
+    "files": [
+      "migrations/0042_orders_customer_idx.sql"
+    ]
+  },
+  {
+    "id": "C2",
+    "service": "orders-api",
+    "kind": "dependency",
+    "at": "2026-09-22T11:05:00Z",
+    "author": "renovate",
+    "ref": "5e0b1c3",
+    "summary": "Bump structlog 24.1 to 24.4",
+    "files": [
+      "requirements.txt"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+2026-10-01T18:02:18Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 897
+2026-10-01T18:02:24Z INFO request_id=1133a84c-5ce4-cf76-e9b8-89f8a0da355b GET /cart 200 32ms
+2026-10-01T18:02:24Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 726
+2026-10-01T18:02:32Z INFO request_id=35af003d-0f39-bc99-ce3a-259a23fd4a19 GET /health 200 338ms
+2026-10-01T18:02:32Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 757
+2026-10-01T18:02:35Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 464
+2026-10-01T18:02:40Z INFO request_id=dbcdb237-baf8-62c1-6c16-a12b17d9e65e GET /cart 200 745ms
+2026-10-01T18:02:40Z ERROR checkout-api request_id=98d475d3-2056-fa0e-4d3b-158709c0af23 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:02:44Z INFO request_id=53eb7bd1-b552-b1c6-a14e-1cc22b209563 GET /health 200 494ms
+2026-10-01T18:02:44Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 222
+2026-10-01T18:02:51Z INFO request_id=53466d11-6411-68b5-40d9-3b8e72374aaf GET /cart 200 514ms
+2026-10-01T18:02:51Z ERROR checkout-api request_id=feb15417-ac5c-b4b3-e673-2a622cd35c39 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:02:55Z ERROR checkout-api request_id=a7bd4828-0f16-720e-87bc-ae429f48dca8 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:03:09Z ERROR checkout-api request_id=93601470-0388-739b-7061-05e4e1a1c8e6 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:03:21Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 594
+2026-10-01T18:03:31Z INFO request_id=b0381cf3-6220-2818-b0d0-012da5693675 GET /health 200 532ms
+2026-10-01T18:03:31Z ERROR checkout-api request_id=c9353766-b3a3-83cc-f04e-d82e016fb1ff request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:03:38Z ERROR checkout-api request_id=91e3b600-616a-ba77-a9a6-557168a6277b request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:03:49Z ERROR checkout-api request_id=50fc016f-e521-6068-30dc-fe5644d9c8f3 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:04:03Z ERROR checkout-api request_id=0118a26f-fda3-9473-b021-517a5388d75c request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:04:17Z ERROR checkout-api request_id=5639b941-2890-92d8-db90-7d1e8bc853d7 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:04:20Z ERROR checkout-api request_id=0be2c793-262a-6d97-c2d4-92c515264b71 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:04:26Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 125
+2026-10-01T18:04:34Z INFO request_id=9b2c75b3-df0b-6f74-7119-b9f3e1f19354 GET /health 200 848ms
+2026-10-01T18:04:34Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 525
+2026-10-01T18:04:47Z INFO request_id=a7814c8a-4215-4724-c835-34a85ed9ef56 GET /health 200 540ms
+2026-10-01T18:04:47Z ERROR checkout-api request_id=ff76889a-86eb-6d3f-c4d5-b151925eab7d request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:04:59Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 504
+2026-10-01T18:05:02Z INFO request_id=cfb1dff2-adf6-4b90-0db3-fd009a177981 GET /health 200 573ms
+2026-10-01T18:05:02Z ERROR checkout-api request_id=f0050f3c-2193-5a03-a309-6063d9f072ce request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:05:07Z INFO request_id=71dfe75b-7a58-068b-163e-d9f414f01c03 GET /health 200 830ms
+2026-10-01T18:05:07Z ERROR checkout-api request_id=08cf23a8-3725-76ed-99c9-e046781247b3 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:05:10Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 854
+2026-10-01T18:05:24Z INFO request_id=d69d6335-8009-42a1-561a-29ee2a0be884 GET /health 200 248ms
+2026-10-01T18:05:24Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 246
+2026-10-01T18:05:28Z ERROR checkout-api request_id=f8977d17-fe58-c56b-1026-6214a17d334a request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:05:39Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 718
+2026-10-01T18:05:41Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 285
+2026-10-01T18:05:45Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 501
+2026-10-01T18:05:54Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 623
+2026-10-01T18:06:01Z INFO request_id=5e2024eb-6134-f5b3-1cbb-f844fb4db4eb GET /health 200 163ms
+2026-10-01T18:06:01Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 202
+2026-10-01T18:06:08Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 398
+2026-10-01T18:06:19Z ERROR checkout-api request_id=b20d245c-5cc1-7b0f-f30b-a24fedf77c52 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:06:29Z ERROR checkout-api request_id=2cc53012-5c3f-3036-9ad5-4cdf30bf66f2 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:06:42Z INFO request_id=6ba5736c-0284-35aa-8d9b-34ad12277c63 GET /health 200 547ms
+2026-10-01T18:06:42Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 720
+2026-10-01T18:06:48Z ERROR checkout-api request_id=ad9f6414-94a3-b693-aae6-443d007456ce request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:06:56Z INFO request_id=5020c1a3-e52c-9187-b171-83e20243757f GET /cart 200 445ms
+2026-10-01T18:06:56Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 606
+2026-10-01T18:07:01Z ERROR checkout-api request_id=39622335-1a06-35e7-ee9c-44771f22e69f request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:07:14Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 88
+2026-10-01T18:07:25Z ERROR checkout-api request_id=1c49df9e-d460-bf0a-e473-83af4539316e request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:07:33Z ERROR checkout-api request_id=f41c012b-06f9-fe72-0df0-6d73fe5b5773 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:07:43Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 398
+2026-10-01T18:07:49Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 147
+2026-10-01T18:07:53Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 788
+2026-10-01T18:07:55Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 863
+2026-10-01T18:08:02Z INFO request_id=d5b78d10-7a3a-96c7-6334-55e46dea3aa2 GET /health 200 507ms
+2026-10-01T18:08:02Z ERROR checkout-api request_id=38e9ef6f-f9bc-ab85-fe19-0c87d5b06782 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:08:12Z INFO request_id=9aa2151b-ecd4-2e50-32be-428211cae7b9 GET /health 200 104ms
+2026-10-01T18:08:12Z ERROR checkout-api request_id=c12625c0-16be-56bc-a619-6c70142ed363 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:08:18Z INFO request_id=3e8fec68-afa5-279a-2c0d-6e944e2b09fc GET /cart 200 352ms
+2026-10-01T18:08:18Z ERROR checkout-api request_id=1b2d88e2-b4c9-8377-6dc8-2a7ceda9dc05 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:08:20Z ERROR checkout-api request_id=bc238450-a5e5-be01-2815-a00cd199166a request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:08:22Z INFO request_id=55d92456-0c3a-1a3a-855a-bf83be14472c GET /health 200 753ms
+2026-10-01T18:08:22Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 285
+2026-10-01T18:08:34Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 123
+2026-10-01T18:08:39Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 697
+2026-10-01T18:08:51Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 106
+2026-10-01T18:08:54Z INFO request_id=fd986f53-435c-eb81-a0e1-61e71991ba10 GET /health 200 534ms
+2026-10-01T18:08:54Z ERROR checkout-api request_id=40c41cf1-31ab-1964-ab79-7ee0ecc78a4a request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:09:08Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 88
+2026-10-01T18:09:17Z ERROR checkout-api request_id=06702fbf-b28d-2f51-9401-f9eefc29519d request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:09:19Z ERROR checkout-api request_id=132cd0d3-1ce6-cd40-5271-0dc33d723eaa request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:09:30Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 867
+2026-10-01T18:09:36Z INFO request_id=701cdbfd-2dfd-00eb-21cc-8b3c176a4371 GET /cart 200 763ms
+2026-10-01T18:09:36Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 286
+2026-10-01T18:09:49Z INFO request_id=178a910d-abe7-3893-00ed-0ad5272b4c99 GET /cart 200 382ms
+2026-10-01T18:09:49Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 786
+2026-10-01T18:10:03Z ERROR checkout-api request_id=712658db-f827-f43f-a4e3-f2a5c8f902a3 request to POST /checkout exceeded 5000ms budget
+2026-10-01T18:10:14Z ERROR checkout-api worker pool exhausted: 64/64 busy, queue depth 383

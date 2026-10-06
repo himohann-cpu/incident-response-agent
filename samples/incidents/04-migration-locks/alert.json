@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4302",
+  "service": "orders-api",
+  "title": "Orders API p99 latency above 4s",
+  "severity": "SEV2",
+  "onset_at": "2026-09-22T11:31:00Z",
+  "fired_at": "2026-09-22T11:36:00Z",
+  "signal": "latency",
+  "detail": "Order history and order placement both slow."
+}

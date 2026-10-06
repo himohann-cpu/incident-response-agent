@@ -1,0 +1,191 @@
+2026-09-24T21:40:33Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:40:37Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:40:40Z ERROR cart-service request_id=6da9fc8f-f8a6-88e1-e8a0-dd8ca02f6772 MemoryError while growing cache
+2026-09-24T21:40:40Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:40:54Z INFO request_id=9bf12a80-a88f-4c0a-90a5-6bcf9235466a GET /cart 200 397ms
+2026-09-24T21:40:54Z ERROR cart-service request_id=a5b93d2e-2308-4c9f-dd81-87c857e9a372 MemoryError while growing cache
+2026-09-24T21:40:54Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:41:07Z INFO request_id=8e0c6f2d-94ad-f174-6a97-87ac5c290a37 GET /cart 200 266ms
+2026-09-24T21:41:07Z ERROR cart-service request_id=6576be39-42d6-1d3f-3a2c-f7f12e355b29 MemoryError while growing cache
+2026-09-24T21:41:07Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:41:19Z INFO request_id=b587728c-7d41-3a1c-8dd4-39ff7549a476 GET /cart 200 574ms
+2026-09-24T21:41:19Z ERROR cart-service request_id=1ceebc19-bc4f-8360-e8c4-911d96a50b7f MemoryError while growing cache
+2026-09-24T21:41:19Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:41:29Z ERROR cart-service request_id=c1c43b63-f2b5-1d57-a068-f5dbfd9bbbbe MemoryError while growing cache
+2026-09-24T21:41:29Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:41:33Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:41:35Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:41:41Z INFO request_id=6d0cb9b1-e895-e37d-1673-fd169f05049e GET /health 200 226ms
+2026-09-24T21:41:41Z ERROR cart-service request_id=eae199b6-ba6c-deeb-5acb-5df22b026166 MemoryError while growing cache
+2026-09-24T21:41:41Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:41:47Z INFO request_id=835fd313-bcbc-8653-f2b2-b8c65b61b7a9 GET /cart 200 520ms
+2026-09-24T21:41:47Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:41:58Z INFO request_id=412d9f54-5ab6-3172-b1a5-0572725f632c GET /health 200 878ms
+2026-09-24T21:41:58Z ERROR cart-service request_id=709bdda6-1d13-ca8a-055d-1c447cf0b2c5 connection reset by peer during restart
+2026-09-24T21:42:12Z INFO request_id=8de31460-ee5c-4a3f-dfad-ab68afe9ecf9 GET /health 200 409ms
+2026-09-24T21:42:12Z ERROR cart-service request_id=969bd713-e01a-4011-89d6-b084ff4cf838 connection reset by peer during restart
+2026-09-24T21:42:26Z INFO request_id=03887155-0656-57a5-fe96-7cb726a391d7 GET /cart 200 533ms
+2026-09-24T21:42:26Z ERROR cart-service request_id=08199946-ccea-d64f-0913-2eaa13193d6a MemoryError while growing cache
+2026-09-24T21:42:26Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:42:30Z ERROR cart-service request_id=3aad711f-df7e-f53a-9c60-136d8459f072 MemoryError while growing cache
+2026-09-24T21:42:30Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:42:41Z INFO request_id=d1b5c55f-5c69-ba2c-77bf-93b954d49c9b GET /health 200 499ms
+2026-09-24T21:42:41Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:42:46Z INFO request_id=e053cffd-fc84-9bd1-0b9e-2555a180fe3e GET /cart 200 764ms
+2026-09-24T21:42:46Z ERROR cart-service request_id=45cd7f08-626a-45f9-1040-fdc980001cf5 MemoryError while growing cache
+2026-09-24T21:42:46Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:42:59Z INFO request_id=df547919-3301-c638-6d1e-925fa212f5e6 GET /health 200 669ms
+2026-09-24T21:42:59Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:43:03Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:43:08Z ERROR cart-service request_id=67ed27b3-559d-0f79-b448-abf85653cf0d MemoryError while growing cache
+2026-09-24T21:43:08Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:43:22Z INFO request_id=269b79ab-22b7-3492-01d9-def8e38620d7 GET /cart 200 707ms
+2026-09-24T21:43:22Z ERROR cart-service request_id=720d7c9f-6565-9198-c5b8-edf24d6ac110 MemoryError while growing cache
+2026-09-24T21:43:22Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:43:35Z ERROR cart-service request_id=f73fd3aa-5728-12d0-ebd5-955630b36275 MemoryError while growing cache
+2026-09-24T21:43:35Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:43:42Z ERROR cart-service request_id=b8a0e328-de49-ec05-1157-7c09d6ada4f9 MemoryError while growing cache
+2026-09-24T21:43:42Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:43:56Z INFO request_id=3ca593db-b453-0523-37e3-664a0c35b299 GET /cart 200 478ms
+2026-09-24T21:43:56Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:44:01Z ERROR cart-service request_id=99dc8ea7-0c71-144d-12cd-d0fdcf396ff1 connection reset by peer during restart
+2026-09-24T21:44:08Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:44:10Z INFO request_id=de23c57e-bfd3-06ef-a620-67c27c7fbd93 GET /cart 200 644ms
+2026-09-24T21:44:10Z ERROR cart-service request_id=56786908-2cac-0eb4-dd01-cbd76a0db8b0 MemoryError while growing cache
+2026-09-24T21:44:10Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:44:18Z INFO request_id=df91857f-037b-0696-ecdf-906b511fd02e GET /cart 200 689ms
+2026-09-24T21:44:18Z ERROR cart-service request_id=0e572a9d-6a46-9d2c-b5cb-d5bdb960e68c connection reset by peer during restart
+2026-09-24T21:44:22Z INFO request_id=35e226c7-2485-878c-c466-1701d732029a GET /health 200 386ms
+2026-09-24T21:44:22Z ERROR cart-service request_id=6c58e587-5817-89e5-ae1e-ddaa96a73746 MemoryError while growing cache
+2026-09-24T21:44:22Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:44:35Z ERROR cart-service request_id=7a416ffa-c368-0819-c6a7-4f2ba5b5deea MemoryError while growing cache
+2026-09-24T21:44:35Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:44:42Z ERROR cart-service request_id=21c1e168-40bf-0250-8ee1-198b79cba469 connection reset by peer during restart
+2026-09-24T21:44:56Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:44:58Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:45:09Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:45:19Z INFO request_id=7109e1cd-fb7a-dc1e-7fba-a2d93690096b GET /health 200 372ms
+2026-09-24T21:45:19Z ERROR cart-service request_id=63975459-75c9-364b-52e6-e74bca317b85 connection reset by peer during restart
+2026-09-24T21:45:22Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:45:24Z INFO request_id=68f1004c-e832-eb4c-6025-a834f1e84978 GET /cart 200 662ms
+2026-09-24T21:45:24Z ERROR cart-service request_id=07dc63c8-407e-0550-4327-6f0db592572d connection reset by peer during restart
+2026-09-24T21:45:29Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:45:34Z ERROR cart-service request_id=7a34ffd9-dcf2-ef13-de88-446cc4ea6574 MemoryError while growing cache
+2026-09-24T21:45:34Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:45:43Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:45:54Z INFO request_id=d9f1dd1b-e231-bc4a-5c40-c7a10bd30ece GET /health 200 812ms
+2026-09-24T21:45:54Z ERROR cart-service request_id=2eab07c9-6f4f-dd2c-23c9-efaafeacba93 connection reset by peer during restart
+2026-09-24T21:46:06Z INFO request_id=26e4bfc9-f96e-e9a6-0269-e95f222578ed GET /health 200 329ms
+2026-09-24T21:46:06Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:46:14Z INFO request_id=a464b625-eb23-aa54-b763-e1c7658c8035 GET /cart 200 363ms
+2026-09-24T21:46:14Z ERROR cart-service request_id=086d1ec5-95d4-3c0f-338d-a099cac7cf63 connection reset by peer during restart
+2026-09-24T21:46:16Z INFO request_id=93296b9a-6e35-b2cb-1ad8-051aba7f42b0 GET /health 200 69ms
+2026-09-24T21:46:16Z ERROR cart-service request_id=51058367-1086-e0ea-1c3f-f5081ed6b41a connection reset by peer during restart
+2026-09-24T21:46:20Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:46:30Z ERROR cart-service request_id=d6ee47a8-7f0b-f50d-eb2f-597513cbbcbd MemoryError while growing cache
+2026-09-24T21:46:30Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:46:36Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:46:44Z ERROR cart-service request_id=4467bd54-02b6-5361-b02a-a7320a99b2dd connection reset by peer during restart
+2026-09-24T21:46:54Z INFO request_id=b0b6b765-690e-fb7c-fe4b-bec9dfc34c1f GET /cart 200 754ms
+2026-09-24T21:46:54Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:47:02Z ERROR cart-service request_id=cdc2d189-249f-e5e9-ff94-0158a28e0b7d connection reset by peer during restart
+2026-09-24T21:47:13Z ERROR cart-service request_id=b1940b43-9c64-bae1-6080-3da2fdb2fa42 connection reset by peer during restart
+2026-09-24T21:47:18Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:47:31Z ERROR cart-service request_id=7142dbc4-8c87-ab02-50cc-f8bb749b4142 MemoryError while growing cache
+2026-09-24T21:47:31Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:47:38Z ERROR cart-service request_id=3c03e703-d332-a127-ca97-de93be494976 connection reset by peer during restart
+2026-09-24T21:47:45Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:47:48Z ERROR cart-service request_id=3927d2ce-ec87-9ccd-c3f0-432443d27c0d MemoryError while growing cache
+2026-09-24T21:47:48Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:47:59Z INFO request_id=10db8d06-ed65-c1db-875c-86205d35582d GET /health 200 229ms
+2026-09-24T21:47:59Z ERROR cart-service request_id=d037e73e-5da4-3d17-ac76-27072c1f4683 MemoryError while growing cache
+2026-09-24T21:47:59Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:48:11Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:48:19Z INFO request_id=6009a07a-1a51-5d61-5b4d-cd9fa9baa6c4 GET /cart 200 555ms
+2026-09-24T21:48:19Z ERROR cart-service request_id=73eb085e-a988-1687-4667-4a5e6542a692 MemoryError while growing cache
+2026-09-24T21:48:19Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:48:23Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:48:34Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:48:40Z INFO request_id=4e79649f-b7da-8b6e-464b-52f2eabb98b9 GET /health 200 281ms
+2026-09-24T21:48:40Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:48:43Z INFO request_id=f557963d-cad5-4a5b-9e2c-5f22c7f3440c GET /cart 200 64ms
+2026-09-24T21:48:43Z ERROR cart-service request_id=602f9af2-5dff-0ab0-b668-4b95c0cae261 MemoryError while growing cache
+2026-09-24T21:48:43Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:48:51Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:48:58Z INFO request_id=5456df6d-dc34-121e-1476-720dc18bbb5b GET /health 200 408ms
+2026-09-24T21:48:58Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:00Z INFO request_id=ef6002fb-7651-b371-d6ee-6a366fa594d3 GET /cart 200 504ms
+2026-09-24T21:49:00Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:02Z ERROR cart-service request_id=66d45788-8aaa-0a63-ecff-4b42ae0a18b4 MemoryError while growing cache
+2026-09-24T21:49:02Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:49:07Z ERROR cart-service request_id=03f6082d-1a09-7f37-1697-c0d9d9209a91 MemoryError while growing cache
+2026-09-24T21:49:07Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:49:14Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:16Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:22Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:32Z ERROR cart-service request_id=4e8d83aa-4df3-3f9f-dde4-cd4e6156840f MemoryError while growing cache
+2026-09-24T21:49:32Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:49:37Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:49:51Z ERROR cart-service request_id=b4f88738-8e5e-a9f4-0d18-5073bab0c122 MemoryError while growing cache
+2026-09-24T21:49:51Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:49:53Z INFO request_id=4aa1fdc0-3357-b5e7-3598-f920cd6e1ffb GET /cart 200 626ms
+2026-09-24T21:49:53Z ERROR cart-service request_id=67efec23-ef52-ba51-71e3-e0c834302e5a MemoryError while growing cache
+2026-09-24T21:49:53Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:49:57Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:50:10Z ERROR cart-service request_id=ac818d66-b86e-acca-bfa8-cd4b4b7e1509 MemoryError while growing cache
+2026-09-24T21:50:10Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:50:15Z ERROR cart-service request_id=339dd91e-c8c4-176e-f36c-6a290ce12ae6 MemoryError while growing cache
+2026-09-24T21:50:15Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:50:23Z INFO request_id=ec81cdb2-b219-2226-0ab0-d60c28ff34d3 GET /health 200 477ms
+2026-09-24T21:50:23Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:50:36Z INFO request_id=530b60a7-8c79-d75f-36ee-f20f26e2c66f GET /cart 200 838ms
+2026-09-24T21:50:36Z ERROR cart-service request_id=3b16ce12-6439-f963-086e-614653de9e36 MemoryError while growing cache
+2026-09-24T21:50:36Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:50:41Z ERROR cart-service request_id=6e0b34eb-554b-adcc-66c0-09ef1d4788c8 MemoryError while growing cache
+2026-09-24T21:50:41Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:50:51Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:50:56Z ERROR cart-service request_id=9907e9da-957b-8a6c-c199-338a16a39bc7 connection reset by peer during restart
+2026-09-24T21:51:05Z INFO request_id=942b6eb2-ecb3-4cc3-084b-994a94822045 GET /health 200 123ms
+2026-09-24T21:51:05Z ERROR cart-service request_id=5823f33e-31c2-f1c4-26f7-4ccea8127933 connection reset by peer during restart
+2026-09-24T21:51:09Z ERROR cart-service request_id=3f555e9e-545d-be0a-5d32-1c112dc99857 MemoryError while growing cache
+2026-09-24T21:51:09Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:51:12Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:51:22Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:51:29Z ERROR cart-service request_id=5c0412d2-2b71-a9a9-f109-54e5170c9613 MemoryError while growing cache
+2026-09-24T21:51:29Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:51:35Z INFO request_id=1df85c6e-272f-7f02-453d-8a8189366a37 GET /health 200 140ms
+2026-09-24T21:51:35Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:51:42Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:51:52Z ERROR cart-service request_id=03de571c-1b12-f17c-0dbc-caab7d07da04 connection reset by peer during restart
+2026-09-24T21:52:05Z ERROR cart-service request_id=3ab0e96c-1648-c002-2bd8-d7502756116e MemoryError while growing cache
+2026-09-24T21:52:05Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:52:11Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:52:25Z ERROR cart-service request_id=d2450b1b-3ee9-12b3-9963-fba25658fb0f MemoryError while growing cache
+2026-09-24T21:52:25Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:52:31Z ERROR cart-service request_id=7637dba4-9784-ebbc-2ecc-514602c18c37 MemoryError while growing cache
+2026-09-24T21:52:31Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:52:44Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:52:56Z ERROR cart-service request_id=ff4ea585-00ba-caa5-e175-09a87acf6832 connection reset by peer during restart
+2026-09-24T21:53:06Z ERROR cart-service request_id=c05fc226-9a7f-a2ea-1009-dddb32f4371b connection reset by peer during restart
+2026-09-24T21:53:08Z ERROR cart-service request_id=17a6a39f-a6a4-b7aa-f8aa-953059652327 MemoryError while growing cache
+2026-09-24T21:53:08Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:53:12Z INFO request_id=e79ff29f-0d82-beb5-7755-c9dad51be06f GET /cart 200 841ms
+2026-09-24T21:53:12Z ERROR cart-service request_id=2a2b618a-6f71-62c5-d33e-c8d0a3c77506 MemoryError while growing cache
+2026-09-24T21:53:12Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:53:15Z INFO request_id=c02edf60-d69f-d8f4-3b6a-32b13d7796de GET /cart 200 621ms
+2026-09-24T21:53:15Z ERROR cart-service request_id=3c9490df-e0a7-7e1c-9333-eee9e87a7afd MemoryError while growing cache
+2026-09-24T21:53:15Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:53:29Z ERROR cart-service request_id=57b7da6c-d365-6107-67ff-164cf2b7c4d1 MemoryError while growing cache
+2026-09-24T21:53:29Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:53:37Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:53:46Z ERROR cart-service request_id=751dac41-2555-55dd-8b9f-154536b2392a MemoryError while growing cache
+2026-09-24T21:53:46Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:53:49Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:53:52Z INFO request_id=602a65a4-d2ab-e582-2f21-457f63c166f4 GET /health 200 360ms
+2026-09-24T21:53:52Z ERROR cart-service request_id=5cc48530-2adb-3965-59ff-d0dbe3cd9c9e connection reset by peer during restart
+2026-09-24T21:54:00Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:54:04Z ERROR cart-service pod=cart-service-7d9f OOMKilled: container exceeded memory limit 2Gi
+2026-09-24T21:54:18Z ERROR cart-service request_id=ad1e3160-19d5-fc09-8d7c-dcbcbc0ce1b9 MemoryError while growing cache
+2026-09-24T21:54:18Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put
+2026-09-24T21:54:30Z ERROR cart-service request_id=54c50c19-71b0-442f-f535-5ca04bbbcbd3 MemoryError while growing cache
+2026-09-24T21:54:30Z Traceback: File "/srv/app/cache/product_cache.py", line 41, in put

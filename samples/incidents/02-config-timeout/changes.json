@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "service": "checkout-api",
+    "kind": "config",
+    "at": "2026-09-17T10:40:00Z",
+    "author": "tnguyen",
+    "ref": "CHG-2310",
+    "summary": "Lower payments client timeout from 5s to 800ms",
+    "files": [
+      "config/clients.yaml"
+    ]
+  },
+  {
+    "id": "C2",
+    "service": "checkout-api",
+    "kind": "deploy",
+    "at": "2026-09-17T08:15:00Z",
+    "author": "rkapoor",
+    "ref": "c41d9e0",
+    "summary": "Refactor logging setup",
+    "files": [
+      "app/logging_setup.py"
+    ]
+  }
+]

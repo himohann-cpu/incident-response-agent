@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4410",
+  "service": "notifications",
+  "title": "Email delivery failing",
+  "severity": "SEV3",
+  "onset_at": "2026-09-27T00:00:00Z",
+  "fired_at": "2026-09-27T00:15:00Z",
+  "signal": "availability",
+  "detail": "No order confirmation emails sent since midnight UTC."
+}

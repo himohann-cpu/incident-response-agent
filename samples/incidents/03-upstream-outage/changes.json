@@ -1,0 +1,15 @@
+[
+  {
+    "id": "C1",
+    "service": "checkout-api",
+    "kind": "deploy",
+    "at": "2026-09-19T16:02:00Z",
+    "author": "epark",
+    "ref": "2ad77f1",
+    "summary": "Update receipt template and footer copy",
+    "files": [
+      "app/templates/receipt.html",
+      "app/templates/footer.html"
+    ]
+  }
+]

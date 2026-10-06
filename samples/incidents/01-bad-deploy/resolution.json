@@ -1,0 +1,26 @@
+{
+  "resolved_at": "2026-09-15T14:31:00Z",
+  "impact": "About 31% of checkout attempts failed for 24 minutes.",
+  "confirmed_cause": {
+    "kind": "change",
+    "change_id": "C1",
+    "description": "Deploy 9f3c2ab read `discount_type` from promo records created before the field existed, raising KeyError."
+  },
+  "actions": [
+    {
+      "at": "2026-09-15T14:12:00Z",
+      "actor": "on-call (asingh)",
+      "action": "Acknowledged the page"
+    },
+    {
+      "at": "2026-09-15T14:19:00Z",
+      "actor": "on-call (asingh)",
+      "action": "Approved rollback of checkout-api to the release before 9f3c2ab"
+    },
+    {
+      "at": "2026-09-15T14:24:00Z",
+      "actor": "deploy system",
+      "action": "Rollback completed"
+    }
+  ]
+}

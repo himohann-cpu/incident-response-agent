@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "service": "notifications",
+    "kind": "deploy",
+    "at": "2026-09-29T08:30:00Z",
+    "author": "mlopez",
+    "ref": "aa41c07",
+    "summary": "Add SMS template for delivery updates",
+    "files": [
+      "app/templates/sms_delivery.txt"
+    ]
+  },
+  {
+    "id": "C2",
+    "service": "search-api",
+    "kind": "deploy",
+    "at": "2026-09-28T02:10:00Z",
+    "author": "mlopez",
+    "ref": "d19e6b2",
+    "summary": "Add synonyms for seasonal terms",
+    "files": [
+      "app/synonyms/seasonal.py"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-4377",
+  "service": "cart-service",
+  "title": "cart-service pods restarting (OOMKilled)",
+  "severity": "SEV3",
+  "onset_at": "2026-09-24T21:40:00Z",
+  "fired_at": "2026-09-24T21:52:00Z",
+  "signal": "saturation",
+  "detail": "Memory climbed steadily for hours before the first restart."
+}
